@@ -13,6 +13,7 @@
 // Last action before the widget closed
 @property (nonatomic) NSString *lastActionBeforeClose;
 @property (nonatomic) int captureProgress;
+@property (nonatomic) NSString *timeoutDiagnostic;
 
 // Data from scanned document (open)
 @property (nonatomic) UIImage *frontDocument;
