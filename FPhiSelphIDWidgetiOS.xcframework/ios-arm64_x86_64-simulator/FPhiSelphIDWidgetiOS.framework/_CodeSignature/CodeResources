@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/FPhiSelphIDWidgetExtractionData.h</key>
 		<data>
-		ihg/1aC1lBw6KWiNg2Iq+phoHdY=
+		ZCbd+IBkmD+vbOEFDVJOHii8xDE=
 		</data>
 		<key>Headers/FPhiSelphIDWidgetios.h</key>
 		<data>
@@ -42,15 +42,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4BDdyx/+IynSH2nnjSsUSk5E8do=
+		AHHTpQsE/F4CVCcsHstjEDCITKE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		s04l2kkCw6Jfz89treZMseC9NPM=
-		</data>
-		<key>PrivateHeaders/FPhiGraphTransition.h</key>
-		<data>
-		KpKabGuaFLuTb+S5S3/wLNzhfuA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -125,11 +121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ihg/1aC1lBw6KWiNg2Iq+phoHdY=
+			ZCbd+IBkmD+vbOEFDVJOHii8xDE=
 			</data>
 			<key>hash2</key>
 			<data>
-			7FCh+lSHVzUhCifX4m11DiADN3JchDO/gtgQte2WLAs=
+			bKeSIluE6oq9SI9IwZln69uU5Fl3xSVJmHZFRozKqsw=
 			</data>
 		</dict>
 		<key>Headers/FPhiSelphIDWidgetios.h</key>
@@ -163,17 +159,6 @@
 			<key>hash2</key>
 			<data>
 			b4k/U87gbU9oD0bsSA3ooYSIE97dG1zfpyZEi5TZ5kQ=
-			</data>
-		</dict>
-		<key>PrivateHeaders/FPhiGraphTransition.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KpKabGuaFLuTb+S5S3/wLNzhfuA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ACKhr0RekCQKpJMzFmkaoF1yoB1TkjA4kVJpda7/4pE=
 			</data>
 		</dict>
 	</dict>
