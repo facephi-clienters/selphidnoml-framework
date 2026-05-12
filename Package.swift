@@ -29,7 +29,7 @@ let package = Package(
             ],
             resources: [.copy("fphi-selphid-widget-resources-selphid-1.0.zip")]),
         .binaryTarget(name: "FPhiSelphIDWidgetiOS",
-        url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/Selphid/FPhiSelphIDWidgetiOSLight/1.38.0/FPhiSelphIDWidgetiOSLight.zip",
-        checksum: "38dbbcf88ee4b457b4bc69315c9c82feca9101737c98090f5c2ca22ee5ba1ff7")
+        url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/Selphid/FPhiSelphIDWidgetiOSLight/1.39.0/FPhiSelphIDWidgetiOSLight.zip",
+        checksum: "96117f8e0b1b3e27a35b7f83955c66b7f3e9ee58ca43299905804d8da61e09c4")
     ]
 )
