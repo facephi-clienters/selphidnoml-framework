@@ -15,7 +15,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(url: "https://github.com/facephi-clienters/SDK-ZipZap-SPM.git", from: "1.0.0"),
-        .package(url: "https://github.com/facephi-clienters/FPhiMBWidgetiOS-framework.git", from: "6.13.0")
+        .package(url: "https://github.com/facephi-clienters/FPhiMBWidgetiOS-framework.git", .exactItem("6.13.1")),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -29,7 +29,7 @@ let package = Package(
             ],
             resources: [.copy("fphi-selphid-widget-resources-selphid-1.0.zip")]),
         .binaryTarget(name: "FPhiSelphIDWidgetiOS",
-        url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/Selphid/FPhiSelphIDWidgetiOSLight/1.40.0/FPhiSelphIDWidgetiOSLight.zip",
-        checksum: "159b27670a36567f762e9580b6911d52733b5adfc16be942f19d3ebb1359a017")
+        url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/Selphid/FPhiSelphIDWidgetiOSLight/1.41.4/FPhiSelphIDWidgetiOSLight.zip",
+        checksum: "9fd215ed4b5a0fcd83e9af9e9f8235cae77a78ad511fbe509a1009fc9499a235")
     ]
 )
